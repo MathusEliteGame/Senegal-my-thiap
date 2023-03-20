@@ -1,0 +1,248 @@
+#div1AC
+{
+width: 100%;
+height: 58vh;
+background-color: green;
+background-image: url(https://pbs.twimg.com/media/EUwMMqNXsAEDj97.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+.muse
+{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    width: 258.702px;
+    height: 220px;
+    margin: 10px;
+    margin-right: 5px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.muse .p
+{
+  margin-top: 180px;
+  margin-left: 20px;
+  color: white;
+}
+#musee
+{
+    padding: 0% 0% 3% 0%;
+}
+.art1
+{
+    display: flex;
+    position:relative ;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    background-image: linear-gradient(180deg ,  rgb(248, 248, 248) 40%, #39f300 55%);
+}
+#musee
+{
+    padding: 0% 0% 3% 0%;
+}
+.art1
+{
+  display: flex;
+  position:relative ;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  background-image: linear-gradient(180deg ,  rgb(248, 248, 248) 55%, #fa4669 55%);
+}
+.art2
+{
+  display: flex;
+  position:relative ;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  background-image: linear-gradient(180deg ,  #fa4669 55%, rgb(248, 248, 248) 55%);
+    
+}
+.muse
+{
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    width: 258.702px;
+    height: 220px;
+    margin: 10px;
+    margin-right: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-image: url(https://pbs.twimg.com/media/ErNd_wmWMAEkeYi?format=jpg&name=large);
+    background-size: 100%;
+}
+.cri
+{
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  left: 0;
+  display: flex;
+  opacity: 0;
+  transition: 0.5s;
+}
+#muse1
+{
+  background-repeat: no-repeat;
+    background-image: url(https://pbs.twimg.com/media/ErNd_wmWMAEkeYi?format=jpg&name=large);
+    background-size: 100%;
+}
+#cri1
+{
+  background-image: url(https://i.pinimg.com/564x/ef/74/d4/ef74d46a3aa2778e1d761567369ccb06.jpg);
+  background-size: 100% ;
+}
+#cri1 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri1:hover
+{
+   opacity: 1;
+}
+#muse2
+{
+  background-repeat: no-repeat;
+    background-image: url(https://www.lequotidiendelart.com/media/cache/article_page_cover/shared/article-image/5502.jpg);
+    background-size: 100% 100%;
+}
+#cri2
+{
+  background-image: url(https://journals.openedition.org/ocim/docannexe/image/4717/img-1-small480.jpg);
+  background-size: 100% 100%;
+}
+#cri2 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri2:hover
+{
+   opacity: 1;
+}
+#muse3
+{
+    background-image: url(https://museomix.org/wp-content/uploads/2018/07/museedakar-276x355.jpeg);
+    background-size: 100% 100%;
+}
+#cri3
+{
+  background-image: url(https://i0.wp.com/www.rewmi.com/wp-content/uploads/2021/12/52141237-39842138.jpg);
+  background-size: 100% 100%;
+}
+#cri3 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri3:hover
+{
+   opacity: 1;
+}
+#muse4
+{
+    background-image: url(https://i.pinimg.com/736x/7e/2c/ee/7e2cee5748c8be13980e7f87c64b65e6.jpg);
+    background-size: 100% 100%;
+}
+#cri4
+{
+  background-image: url(https://www.au-senegal.com/local/cache-vignettes/L635xH333/234d2809f609191b30a486e79f3c3c-7ab11.jpg);
+  background-size: 100% 100%;
+}
+#cri4 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri4:hover
+{
+   opacity: 1;
+}
+#muse5
+{
+    background-image: url(https://mochilerosindinero.com/wp-content/uploads/2021/11/iwolBassari.jpg);
+    background-size: 100% 100%;
+}
+#cri5
+{
+  background-image: url(http://www.bastina.fr/images/illustrations/images/Lutte%20bassari.JPG);
+  background-size: 100% 100%;
+}
+#cri5 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri5:hover
+{
+   opacity: 1;
+}
+#muse6
+{
+    background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/9b/05/11/getlstd-property-photo.jpg?w=600&h=400&s=1);
+    background-size: 100% 100%;
+}
+#cri6
+{
+  background-image: url(https://pbs.twimg.com/media/Fmwmq_cXwAAxnlF?format=jpg&name=large);
+  background-size: 100% 100%;
+}
+#cri6 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri6:hover
+{
+   opacity: 1;
+}
+#muse7
+{
+    background-image: url(https://pbs.twimg.com/media/FedwL9CWAAEluyb?format=jpg&name=900x900);
+    background-size: 100% 100%;
+}
+#cri7
+{
+  background-image: url(https://pbs.twimg.com/media/FptXv5MWYAAQN40?format=jpg&name=900x900);
+  background-size: 100%;
+}
+#cri7 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri7:hover
+{
+   opacity: 1;
+}
+#muse8
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FoutaToro1818.jpg/350px-FoutaToro1818.jpg);
+    background-size: 100%;
+}
+#cri8
+{
+  background-image: url(https://1.bp.blogspot.com/-j9xn0km4myM/X42QB14aSmI/AAAAAAAAQmc/MzR_ORQEMd8bGYifpGgtiKN8t2Nllm8IwCLcBGAsYHQ/s650/Tourisme-zone-visite-vacance-Fouta-Toro-environnement-nature-savane-histore-culture-tradition-Peuls-Toucouleurs-LEUKSENEGAL-Dakar-Senegal-Afrique-peuls-du-fouta.jpg);
+  background-size: 100% 100%;
+}
+#cri8 p
+{
+  margin-top: 200px;
+  margin-left: 30px;
+}
+#cri8:hover
+{
+   opacity: 1;
+}
+.p
+{
+  color: white;
+  line-height: 0px;
+}

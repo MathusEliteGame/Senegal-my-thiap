@@ -1,0 +1,72 @@
+#div1PN
+{
+width: 100%;
+height: 58vh;
+background-color: green;
+background-image: url(https://discover-senegal.com/wp-content/uploads/2019/05/Giraffes.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.envprince
+{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.enveloppe
+{
+    width: 100%;
+    height: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+
+}
+.carte
+{
+    width: 33%;
+    height: 500px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    margin-left: 25px;
+    margin-right: 25px;
+    cursor: pointer;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+}
+.carte img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.carte-body
+{
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: -100%;
+    position: absolute;
+    background: #1F3D4738;
+    backdrop-filter: blur(15px);
+    border-radius: 15px;
+    padding: 30px;
+    display: flex;
+    flex-direction:column ;
+    justify-content: center;
+    transition: 3s;
+}
+.carte:hover .carte-body
+{
+    right: 0;
+}
