@@ -552,9 +552,3 @@ footer
   text-decoration: underline;
 }
 /*footer*/
-@media screen and(max-width:100%)
- {
-  body{
-  width:100%;
-}
-}
